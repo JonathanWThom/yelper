@@ -13,7 +13,7 @@ Unfortunately, it only works for verified numbers so far.
 
 ### Set Up
 
-Visit [twilio-yelper.herokuapp.com](twilio-yelper.herokuapp.com) to see a deployed version.
+Visit [twilio-yelper.herokuapp.com](https://twilio-yelper.herokuapp.com) to see a deployed version.
 
 Or
 
